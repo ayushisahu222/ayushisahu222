@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushisahu222!
 - 👀 I'm passionate about Generative AI, utilizing data to create meaningful solutions, and exploring the latest algorithms.
-- 🌱 Currently, I’m deepening my understanding of Generative AI to enhance my skills and knowledge.
+- 🌱 Currently, I’m deepening my understanding of AI & ML to enhance my skills and knowledge.
 - 💞 I'm eager to collaborate on AI/ML projects that push boundaries and foster innovation.
 - 📫 Feel free to reach out to me at ayushisahu222@gmail.com.
 - 😄 Pronouns: she/her/hers
